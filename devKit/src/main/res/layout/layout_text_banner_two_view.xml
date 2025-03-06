@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">
+
+    <TextView
+        android:id="@+id/tv_first_page_work_condition"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#FFEBEB"
+        android:padding="2dp"
+        android:text="复杂"
+        android:textColor="#FA3F3F"
+        android:textSize="@dimen/sp_13" />
+
+    <TextView
+        android:id="@+id/tv_well_num_date"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/dp_10"
+        android:layout_weight="1"
+        android:ellipsize="end"
+        android:singleLine="true"
+        android:text="合理啊"
+        android:textSize="@dimen/sp_13" />
+</LinearLayout>

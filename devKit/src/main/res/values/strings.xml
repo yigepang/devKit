@@ -1,0 +1,10 @@
+<resources>
+    <item name="tag_key_data" type="id" />
+    <item name="tag_key_position" type="id" />
+    <string name="show_or">不支持在该设备上进行访问</string>
+    <string name="status_layout_manager_loading" translatable="false">加载中&#8230;</string>
+    <string name="status_layout_manager_empty" translatable="false">Empty</string>
+    <string name="status_layout_manager_error" translatable="false">Error</string>
+    <string name="status_layout_manager_retry" translatable="false">Reload</string>
+    <string name="bar_string_placeholder">""</string>
+</resources>

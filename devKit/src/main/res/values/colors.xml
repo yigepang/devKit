@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0067FF</color>
+    <color name="colorPrimaryDark">#0067FF</color>
+    <color name="colorAccent">#0067FF</color>
+
+    <!--主色-->
+    <color name="app_main">#0067FF</color>
+    <!--辅助色绿色-->
+    <color name="show_green">#00B467</color>
+    <!--辅助色红色，用于错误提示-->
+    <color name="show_red">#F6373F</color>
+    <!--文字主色-->
+    <color name="text_main">#353E52</color>
+    <!--文字提示色-->
+    <color name="text_hint">#A0A8B6</color>
+    <!--背景色-->
+    <color name="background">#F3F3F5</color>
+    <!--分割线色-->
+    <color name="divide_line">#EBEBF0</color>
+
+    <!--输入框文字背景-->
+    <color name="color_bg_content_text">#E8F5F0</color>
+
+    <!--主体 新增及详情背景-->
+    <color name="page_back_ground_color">#F3F3F5</color>
+    <color name="white">#FFFFFF</color>
+    <color name="page_back_color">#F6F7F9</color>
+
+    <color name="text_black_home_btn">#999999</color>
+
+    <color name="text_black_home_btn_press">#0F6EFF</color>
+
+    <color name="text_black">#000000</color>
+
+    <color name="color_0F6EFF">#0F6EFF</color>
+
+    <color name="color_text_default_999999">#999999</color>
+
+    <color name="color_text_333333">#333333</color>
+
+    <color name="c_gray">#8e8e8e</color>
+    <!--button背景色-->
+    <color name="btn_background">#F2FFF5</color>
+    <!--button边条色-->
+    <color name="btn_line">#BCF0DA</color>
+    <color name="text_color_exit">#00B467</color>
+    <color name="white_press">#F2F2F2</color>
+    <color name="app_main_press">#0057FF</color>
+
+    <color name="text_blue">#5271EE</color>
+    <color name="btn_blue">#F0F5FF</color>
+    <color name="btn_blue_press">#ADC5FF</color>
+    <color name="required_red">#F63840</color>
+    <color name="btn_choose_file_background">#F5F9FF</color>
+    <color name="btn_choose_file_press">#F0F0FF</color>
+    <color name="btn_choose_file_edge">#BCC1CD</color>
+
+    <color name="bg_red">#FFF1F0</color>
+    <color name="edge_red">#FFA39E</color>
+    <color name="text_orange">#FB6E40</color>
+    <color name="bg_orange">#FFF2E8</color>
+    <color name="edge_orange">#FFBB96</color>
+
+    <color name="gray_bg">#FAFAFA</color>
+    <color name="gray_frame">#ECECF2</color>
+
+    <color name="btn_color_0067FF">#0067FF</color>
+    <color name="btn_color_CADDE6">#CADDE6</color>
+
+    <color name="v3_gary_F3F3F5">#F3F3F5</color>
+    <color name="v3_line">#FFEBEBF0</color>
+    <color name="color_f2f2f2">#F2F2F2</color>
+    <color name="gary_btn">#33979797</color>
+    <color name="black">#000000</color>
+    <color name="text_color_353E52">#353E52</color>
+    <color name="text_color_FF6686">#FF6686</color>
+    <color name="color_line">#ffebebf0</color>
+
+    <color name="color_4B4D64">#4B4D64</color>
+    <color name="color_184275">#184275</color>
+    <color name="color_00A57F">#00A57F</color>
+    <color name="color_915928">#915928</color>
+    <color name="color_833808">#833808</color>
+    <color name="color_31524F">#31524F</color>
+    <color name="color_544763">#544763</color>
+
+    <color name="color_F6F7F9">#F6F7F9</color>
+
+    <color name="color_999999">#999999</color>
+    <color name="color_434343">#434343</color>
+    <color name="color_ffffff">#ffffff</color>
+    <color name="color_F5f5f5">#F5F5F5</color>
+    <color name="status_layout_manager_background_color">#EBEBEB</color>
+    <!--    <color name="status_layout_manager_tip_text_color">#BFBFBF</color>-->
+    <color name="status_layout_manager_tip_text_color">#000000</color>
+    <color name="status_layout_manager_click_view_text_color">#0084FF</color>
+
+    <color name="seek_bar_progress_color">#FFFFFF</color>
+</resources>
